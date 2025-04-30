@@ -61,6 +61,19 @@ The goal is to gain insights into book sales, customer behavior, and inventory s
 
 ---
 
+## 📈 Key Insights from Analysis
+
+- 📊 The **total revenue** generated from all orders provides a clear snapshot of the business performance.
+- 📚 **Fiction** and **Fantasy** genres had strong sales, indicating popular customer preferences.
+- 🧾 The **most expensive book** and the **top 3 Fantasy books** give a sense of high-value inventory.
+- 👥 A subset of customers placed **2 or more orders**, showing strong engagement and potential for loyalty programs.
+- 🔁 The **most frequently ordered book** and the **most purchased author** reflect inventory in high demand.
+- 🌍 Customers from cities spending **over $30** offer valuable regional insights for targeted marketing.
+- 📦 The **stock remaining** query helped in evaluating inventory consumption and planning for restocking.
+- 💸 The **top-spending customer** analysis helps identify VIPs for personalized offers.
+
+---
+
 ## 🛠 Tools & Technologies
 
 - 💻 PostgreSQL (Database and query execution)
@@ -73,7 +86,7 @@ The goal is to gain insights into book sales, customer behavior, and inventory s
 ## 📂 Repository Structure
 | File | Description |
 |------|-------------|
-| 'OnlineBookStore Analysis.sql` | PostgreSQL queries for all given queries |
+| `OnlineBookStore Analysis.sql` | PostgreSQL queries for all given queries |
 | `Books.csv` | Dataset used for query execution |
 | `Customers.csv` | Dataset used for query execution |
 | `Orders.csv` | Dataset used for query execution |
@@ -96,6 +109,3 @@ The goal is to gain insights into book sales, customer behavior, and inventory s
 👤 **Satyam Kumar**  
 🌐 www.linkedin.com/in/satyam-kumar-5a229222b  
 📬 satyamkv123@gmail.com
-
-
-
