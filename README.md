@@ -1,4 +1,4 @@
-# 📚 Online Bookstore Data Analysis using SQL
+<h1 align="center"> 📚 Online Bookstore Data Analysis using SQL </h1>
 
 🎯 **Project Title**: SQL Project – Online Bookstore Analysis     
 🗂️ **Datasets Used**: Books.csv, Customers.csv, Orders.csv  
