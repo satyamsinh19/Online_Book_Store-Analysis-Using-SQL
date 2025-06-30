@@ -109,3 +109,7 @@ The goal is to gain insights into book sales, customer behavior, and inventory s
 👤 **Satyam Kumar**  
 🌐 www.linkedin.com/in/satyam-kumar-5a229222b  
 📬 satyamkv123@gmail.com
+
+
+**Note:**
+This is a guided project.
